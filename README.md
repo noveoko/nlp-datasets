@@ -24,7 +24,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Crosswikis](http://nlp.stanford.edu/data/crosswikis-data.tar.bz2/): English-phrase-to-associated-Wikipedia-article database. Paper. (11 GB)
 
-*   [DBpedia](http://aws.amazon.com/de/datasets/dbpedia-3-5-1/?tag=datasets%23keywords%23encyclopedic): a community effort to extract structured information from Wikipedia and to make this information available on the Web (17 GB)
+*   [DBpedia](https://www.dbpedia.org/): a community effort to extract structured information from Wikipedia and to make this information available on the Web (17 GB)
 
 *   [Death Row](http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html): last words of every inmate executed since 1984 online (HTML table)
 *   
